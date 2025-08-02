@@ -24,7 +24,7 @@ PitTrack is a personal iOS app designed to simplify vehicle management by tracki
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/PitTrack.git
+   git clone https://github.com/ikurlovich/PitTrack.git
    ```
 2. Open the project in Xcode.
 3. Build and run on an iOS simulator or device (iOS 17.0+ required).
