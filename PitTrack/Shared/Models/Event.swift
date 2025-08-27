@@ -17,7 +17,14 @@ final class Event {
     var notificationPeriodRaw: String
     var car: Car?
 
-    init(type: EventType, customName: String?, date: Date, notification: Bool, notificationPeriod: NotificationPeriod, car: Car?) {
+    init(
+        type: EventType,
+        customName: String?,
+        date: Date,
+        notification: Bool,
+        notificationPeriod: NotificationPeriod,
+        car: Car?
+    ) {
         self.typeRaw = type.rawValue
         self.customName = customName
         self.date = date
