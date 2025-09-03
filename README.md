@@ -10,15 +10,14 @@ PitTrack is a personal iOS app designed to simplify vehicle management by tracki
 - **Deadline Tracking**: Monitor visa runs, insurance expirations, parking fees, and custom reminders.
 - **Custom Notifications**: Receive alerts 1, 3, or 5 days before any deadline, based on your preference.
 - **Progress Bars**: Visualize upcoming deadlines on the main screen with clear progress bars.
-- **Modern Interface**: Sleek, user-friendly UI optimized for iOS 17+.
+- **Modern Interface**: Sleek, user-friendly UI optimized for iOS 15+.
 
 ## Tech Stack
 
 - **Language**: Swift
 - **Framework**: SwiftUI
-- **Data Storage**: SwiftData for efficient, modern data persistence
 - **Notifications**: UserNotifications framework
-- **Minimum iOS Version**: iOS 17.0
+- **Minimum iOS Version**: iOS 15.0
 
 ## Installation
 
@@ -27,7 +26,7 @@ PitTrack is a personal iOS app designed to simplify vehicle management by tracki
    git clone https://github.com/ikurlovich/PitTrack.git
    ```
 2. Open the project in Xcode.
-3. Build and run on an iOS simulator or device (iOS 17.0+ required).
+3. Build and run on an iOS simulator or device (iOS 15.0+ required).
 
 ## Status
 
